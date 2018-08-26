@@ -15,4 +15,9 @@ My idea is make crowdsource the entire software development process, involving m
 Literally the entire planet, I hope to include developers community from every part of the world of all continents. 
 
 # Why do you think people will bother to join? 
-Because I do believe that this is something that will benefict us all as humanity. Every country has problem with missing people it is not just US or Mexico, and because together we can find other issue to solve all together. 
+Because I do believe that this is something that will benefict us all as humanity. Every country has problem with missing people it is not just US or Mexico, and because together we can find other issue to solve all together. Moreover, I do believe that everyone of us has the wish to do good for the world and Code4humanity in my opinion is the best way to use your skills to change the world for real. Not another piece of code of an open source project dedicated to a small community, but something that could radically change the world solving hard problems of out society. The satisfaction will come from doing something real, something that matter, something that you can see the effect on the real life and everywhere in the world. 
+
+# Most needed people right now.
+Soft. developers(front,back), Data scientists, legal experts
+
+
