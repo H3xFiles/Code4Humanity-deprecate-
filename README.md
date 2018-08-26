@@ -1,5 +1,5 @@
 # Code4Humanity
-This repository want to be a collaborative section, and it is dedicated to a project I had in mind for few years now. Code4Humanity is creating software using crowdsource intelligence from most coders as possible to build a an opensoftware that benefit humanity in hot issues. 
+This repository want to be a collaborative section, and it is dedicated to a project I had in mind for few years now. Code4Humanity is creating software using crowdsource intelligence from most coders as possible to build a an opensoftware that benefit the entire humanity worldwide. 
 
 # Which is the reason to do that?
 The first thing someone approaching this project would ask is what make you different from all the others? 
@@ -20,4 +20,11 @@ Because I do believe that this is something that will benefict us all as humanit
 # Most needed people right now.
 Soft. developers(front,back), Data scientists, legal experts
 
+# An example:  From WhatsApp conversation ... 
+[11:27, 8/26/2018] Fra: how can we find this people using technology? 
+[11:28, 8/26/2018] Fra: because people do not vanish in thin air, missing people are around us, we just do not know if someone is missing.
+[11:28, 8/26/2018] Fra: For example, an italian guy disappeared in Amsterdam for a week.
+[11:29, 8/26/2018] Fra: How many people he met before dying?
+[11:30, 8/26/2018] Fra: what if we had the technology to instantly crowdsourcing all the possible source of intelligence, including immediate information sharing with everyone of the area ...
+[11:32, 8/26/2018] Fra: Like everyone in the amsterdam area with "app name" installed would receive a warning to look for this person, asking to take as much pictures of the surrounding, to checkin if they see the person sending the time and location of the encounter. 
 
