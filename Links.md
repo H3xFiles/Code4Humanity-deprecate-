@@ -8,4 +8,11 @@ A European report that state ["In  2017,  the  network  of  hotlines  received  
 - [Netherlands Police Missing People](https://www.politie.nl/en/wanted-and-missing)
 - [missingpeople.org.uk](https://www.missingpeople.org.uk/help-us-find.html)
 
-
+# Main features APP:
+- Push event to from the main server to the app located on the volunteers smartphone
+- Receive photos, videos, messages and location from the volunteers
+- Live streaming capability
+- Automatic timeline creation
+- Heatmap of the sightinings
+- Possibility to write directly to the volunteer/s
+- The App user can submit borderline cases (People behaving oddly, people in confused mind state, agitated, or in visible distress such as behaving herratically, drunk and alone or hitchikers, violence)
