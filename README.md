@@ -21,10 +21,10 @@ Because I do believe that this is something that will benefict us all as humanit
 Soft. developers(front,back), Data scientists, legal experts
 
 # An example:  From WhatsApp conversation ... 
-[11:27, 8/26/2018] Fra: how can we find this people using technology? 
-[11:28, 8/26/2018] Fra: because people do not vanish in thin air, missing people are around us, we just do not know if someone is missing.
-[11:28, 8/26/2018] Fra: For example, an italian guy disappeared in Amsterdam for a week.
-[11:29, 8/26/2018] Fra: How many people he met before dying?
-[11:30, 8/26/2018] Fra: what if we had the technology to instantly crowdsourcing all the possible source of intelligence, including immediate information sharing with everyone of the area ...
-[11:32, 8/26/2018] Fra: Like everyone in the amsterdam area with "app name" installed would receive a warning to look for this person, asking to take as much pictures of the surrounding, to checkin if they see the person sending the time and location of the encounter. 
+[11:27, 8/26/2018] Fra: how can we find this people using technology? </br>
+[11:28, 8/26/2018] Fra: because people do not vanish in thin air, missing people are around us, we just do not know if someone is missing. </br>
+[11:28, 8/26/2018] Fra: For example, an italian guy disappeared in Amsterdam for a week. </br>
+[11:29, 8/26/2018] Fra: How many people he met before dying? </br>
+[11:30, 8/26/2018] Fra: what if we had the technology to instantly crowdsourcing all the possible source of intelligence, including immediate information sharing with everyone of the area ... </br>
+[11:32, 8/26/2018] Fra: Like everyone in the amsterdam area with "app name" installed would receive a warning to look for this person, asking to take as much pictures of the surrounding, to checkin if they see the person sending the time and location of the encounter.  </br>
 
