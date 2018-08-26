@@ -22,7 +22,7 @@ Soft. developers(front,back), Data scientists, legal experts
 
 # An example:  From WhatsApp conversation ... 
 [11:27, 8/26/2018] Fra: how can we find this people using technology? </br>
-[11:28, 8/26/2018] Fra: because people do not vanish in thin air, missing people are around us, we just do not know if someone is missing. </br>
+[11:28, 8/26/2018] Fra: because people do not just vanish in the thin air, missing people are all around us, we just do not know if someone is missing. </br>
 [11:28, 8/26/2018] Fra: For example, an italian guy disappeared in Amsterdam for a week. </br>
 [11:29, 8/26/2018] Fra: How many people he met before dying? </br>
 [11:30, 8/26/2018] Fra: what if we had the technology to instantly crowdsourcing all the possible source of intelligence, including immediate information sharing with everyone of the area ... </br>
