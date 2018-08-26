@@ -16,6 +16,13 @@ I do believe that developers are problem solver of the society they are highly s
 # How would it work? 
 My idea is make crowdsource the entire software development process, involving more software developers as possible from the kanban board to the actual code writing. Not as different from other opensource projects, with the difference that all the stages of developing will be crowdsources, including deciding which features to implement and the best strategy using public pull systems. 
 
+1. Join the project
+2. Partecipate to the public pulls
+3. Join the micro-discussion on a specific topic. 
+4. Talk with the topic manager
+5. Pick up an available task
+6. As extra: submit an idea how to solve the issue, or submit an hotfix, or any improvment proposal. 
+
 # Who can join? 
 Literally the entire planet, I hope to include developers community from every part of the world of all continents. 
 
