@@ -7,6 +7,11 @@ My answers is the projects will be focus on solving real issues for the world. F
 
 # So, us as developers what we can do about? 
 I do believe that developers are problem solver of the society they are highly skilled to logically solve very complex abstract problems. Developers tend to approach problems differently because it is the daily work of a programmer or a studio of developers coming up with solutions. 
+- [ ] Help out to create the software
+- [ ] Help out to think how to approach the peoblem
+- [ ] Help out to solve bug issues
+- [ ] Improving the previous concept
+- [ ] Optimization
 
 # How would it work? 
 My idea is make crowdsource the entire software development process, involving more software developers as possible from the kanban board to the actual code writing. Not as different from other opensource projects, with the difference that all the stages of developing will be crowdsources, including deciding which features to implement and the best strategy using public pull systems. 
