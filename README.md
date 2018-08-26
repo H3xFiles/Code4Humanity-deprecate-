@@ -21,7 +21,7 @@ My idea is make crowdsource the entire software development process, involving m
 3. Join the micro-discussion on a specific topic. 
 4. Talk with the topic manager
 5. Pick up an available task
-6. As extra: submit an idea how to solve the issue, or submit an hotfix, or any improvment proposal. 
+6. As extra: submit an idea how to solve the issue, or submit an hotfix, or any improvement proposal. 
 
 # Who can join? 
 Literally the entire planet, I hope to include developers community from every part of the world of all continents. 
